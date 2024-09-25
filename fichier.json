@@ -1,0 +1,52 @@
+{
+    "citations": [
+        {
+            "auteur": "Bill Gates",
+            "citation": "Le logiciel est une excellente combinaison entre l'art et la manière."
+        },
+        {
+            "auteur": "Albert Einstein",
+            "citation": "L'imagination est plus importante que la connaissance."
+        },
+        {
+            "auteur": "Steve Jobs",
+            "citation": "Votre temps est limité, ne le gaspillez pas en vivant la vie de quelqu'un d'autre."
+        },
+        {
+            "auteur": "Mahatma Gandhi",
+            "citation": "Soyez le changement que vous souhaitez voir dans le monde."
+        },
+        {
+            "auteur": "Nelson Mandela",
+            "citation": "Cela semble toujours impossible jusqu'à ce que ce soit fait."
+        },
+        {
+            "auteur": "Confucius",
+            "citation": "Un voyage de mille miles commence par un pas."
+        },
+        {
+            "auteur": "Isaac Newton",
+            "citation": "Si j'ai vu plus loin, c'est en me tenant sur les épaules de géants."
+        },
+        {
+            "auteur": "Walt Disney",
+            "citation": "Tous nos rêves peuvent devenir réalité, si nous avons le courage de les poursuivre."
+        },
+        {
+            "auteur": "Leonardo da Vinci",
+            "citation": "Simplicité est la sophistication suprême."
+        },
+        {
+            "auteur": "Marie Curie",
+            "citation": "Dans la vie, rien n'est à craindre, tout est à comprendre."
+        },
+        {
+            "auteur": "Friedrich Nietzsche",
+            "citation": "Ce qui ne me tue pas me rend plus fort."
+        },
+        {
+            "auteur": "Martin Luther King Jr.",
+            "citation": "J'ai fait un rêve que mes quatre petits enfants vivraient un jour dans une nation où ils ne seraient pas jugés par la couleur de leur peau, mais par le contenu de leur caractère."
+        }
+    ]
+}
